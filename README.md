@@ -5,7 +5,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js">
 
-<p>I have used weather API for fetching locations based on longitude and altitude.</p>
+<p>I have used weather API for fetching locations based on longitude and latitude</p>
 
 <p>Checkout the preview below 👇</p>
 <a href="https://github.com/shivau1208/weather_app"><img src="https://github.com/shivau1208/weather_app/assets/102743170/961de612-892f-4146-ad08-99ab63b66e52" height="400" /></a>
